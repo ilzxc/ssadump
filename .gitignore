@@ -1,7 +1,8 @@
 reated by https://www.gitignore.io
 
 ### CUSTOM ###
-push.sh
+commit.sh
+install.sh
 
 ### OSX ###
 .DS_Store
